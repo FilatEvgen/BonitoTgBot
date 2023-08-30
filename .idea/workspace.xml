@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fdb4ff8-bba6-499f-92df-47246ba58772" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bonito.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Const.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bot1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/botWeather.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UHq3bczS7QR7wH4dBgcbQ3zkZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/serge/PycharmProjects/pythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\serge\PycharmProjects\pythonProject\Картинки Bonito" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Bonito.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bonito.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fdb4ff8-bba6-499f-92df-47246ba58772" name="Changes" comment="" />
+      <created>1692606655842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692606655842</updated>
+      <workItem from="1692606659363" duration="10179000" />
+      <workItem from="1692617640008" duration="3428000" />
+      <workItem from="1692675516731" duration="10964000" />
+      <workItem from="1692694470665" duration="5847000" />
+      <workItem from="1692701807777" duration="2736000" />
+      <workItem from="1692707731160" duration="4639000" />
+      <workItem from="1692772035172" duration="7385000" />
+      <workItem from="1692782021813" duration="10506000" />
+      <workItem from="1692794466370" duration="233000" />
+      <workItem from="1692797310531" duration="630000" />
+      <workItem from="1692820337319" duration="1723000" />
+      <workItem from="1692860528006" duration="616000" />
+      <workItem from="1692863531401" duration="13826000" />
+      <workItem from="1692883025051" duration="4605000" />
+      <workItem from="1692941999852" duration="634000" />
+      <workItem from="1692947021827" duration="3571000" />
+      <workItem from="1692953363613" duration="8159000" />
+      <workItem from="1692972846963" duration="437000" />
+      <workItem from="1692994837390" duration="1860000" />
+      <workItem from="1693037258157" duration="4665000" />
+      <workItem from="1693056214493" duration="2273000" />
+      <workItem from="1693060630758" duration="2798000" />
+      <workItem from="1693211037141" duration="1410000" />
+      <workItem from="1693212830505" duration="582000" />
+      <workItem from="1693213466016" duration="709000" />
+      <workItem from="1693215181513" duration="2620000" />
+      <workItem from="1693221439783" duration="223000" />
+      <workItem from="1693221770975" duration="2729000" />
+      <workItem from="1693229435042" duration="1979000" />
+      <workItem from="1693231586501" duration="5891000" />
+      <workItem from="1693241148338" duration="5000" />
+      <workItem from="1693291211672" duration="3530000" />
+      <workItem from="1693299209945" duration="3805000" />
+      <workItem from="1693331767307" duration="3044000" />
+      <workItem from="1693383592314" duration="8863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$WebPlay_py.coverage" NAME="WebPlay.py Coverage Results" MODIFIED="1692699401094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pythonProject$bot1_py.coverage" NAME="aiogramBot.py Coverage Results" MODIFIED="1692686398342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pythonProject$Bonito_py.coverage" NAME="Bonito.py Coverage Results" MODIFIED="1693391158583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
