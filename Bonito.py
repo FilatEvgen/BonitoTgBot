@@ -9,7 +9,7 @@ bot = telebot.TeleBot('6574011523:AAFsGvp18DE5BSMoOdfW6AShtO33cfvhS6k')
 const = Const
 user_inputs = {}
 admin_inputs = []
-
+print('Hello world')
 
 @bot.message_handler(commands=['admin'])
 def admin(message):
